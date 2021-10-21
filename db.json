@@ -4,6 +4,7 @@
       "EmployeeName": "Jane Doe",
       "CurrentPW": "Password123!",
       "DOB": "11/10/1993",
+      "PhoneNumber":"4801234567",
       "Orders": [
         {
           "DateOrdered": "10/20/2021",
