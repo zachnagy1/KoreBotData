@@ -1,0 +1,56 @@
+{
+  "Employee": {
+    "123": {
+      "EmployeeName": "Jane Doe",
+      "CurrentPW": "Password123!",
+      "DOB": "11/10/1993",
+      "Orders": [
+        {
+          "DateOrdered": "10/20/2021",
+          "Equipment": "mouse",
+          "ReplaceExisting": true,
+          "Approved": false
+        }
+      ],
+      "Issues": [
+        {
+          "RelatedTo": "",
+          "Status": "",
+          "DateSubmitted": "",
+          "Description": ""
+        }
+      ]
+    },
+    "456": {
+      "EmployeeName": "Some Guy",
+      "CurrentPW": "Password456!",
+      "DOB": "4/20/1982",
+      "Orders": [
+        {
+          "DateOrdered": "10/20/2021",
+          "Equipment": "mouse",
+          "ReplaceExisting": true,
+          "Approved": false
+        }
+      ],
+      "Issues": [
+        {
+          "RelatedTo": "",
+          "Status": "",
+          "DateSubmitted": "",
+          "Description": ""
+        }
+      ]
+    }
+  },
+  "Equipment": [
+    "mouse",
+    "keyboard",
+    "monitor",
+    "laptop",
+    "headset",
+    "chair",
+    "desk",
+    "printer"
+  ]
+}
